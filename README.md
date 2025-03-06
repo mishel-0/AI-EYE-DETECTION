@@ -15,6 +15,7 @@ This is a **FastAPI-based backend** for detecting **eye diseases** from medical 
 
 1. **Clone the Repository**  
    ```bash
+   pip install fastapi uvicorn tensorflow numpy pillow
    git clone https://github.com/your-username/eye-disease-detection-api.git
    cd eye-disease-detection-api
 
