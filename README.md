@@ -7,7 +7,6 @@ This is a **FastAPI-based backend** for detecting **eye diseases** from medical 
 - Upload eye scan images for AI-based disease detection.  
 - Uses a **pretrained CNN model** to classify eye diseases like **diabetic retinopathy, glaucoma, and cataracts**.  
 - Returns **prediction results** with confidence scores.  
-- Built using **FastAPI**, making it lightweight and efficient.  
 
 ---
 
